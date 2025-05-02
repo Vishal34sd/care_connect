@@ -44,7 +44,7 @@ const Hero = () => {
               <Button className="btn-secondary flex items-center gap-2 shadow-md hover:shadow-lg transition duration-300" asChild>
                 <Link to="/volunteer" aria-label="Join as Volunteer">
                   <Users size={20} className="mr-1" />
-                  Join as Volunteer
+                  Join With NGO's
                 </Link>
               </Button>
             </div>
